@@ -1,0 +1,151 @@
+*{
+    font-family: sans-serif;
+    color: white;
+    font-weight: lighter;
+    
+    
+}
+
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/024/739/992/non_2x/winter-season-cold-weather-snow-background-wallpaper-free-vector.jpg");
+}
+
+h1{
+    float: left;
+    text-align: left;
+    padding-left: 20px;
+    font-size: 58px;
+    color:aliceblue;
+    font-weight: normal;
+    text-shadow: 1px 1px 2px rgb(21, 20, 41);
+}
+
+#city{
+    color:black;
+    clear: both;
+    width: 300px;
+    padding: 10px;
+    margin-top: -86px;
+    margin-right: 500px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    background-color: white;
+    float:right;
+    box-shadow: 3px 3px 4px rgb(20, 22, 43);
+}
+
+#search{
+    background-color:transparent;
+    margin-top: -78px;
+    margin-right:505px;
+    clear:both;
+    float: right;
+    border: none;
+    border-radius: 12px;
+}
+#search:hover{
+    transform: scale(1.6);
+}
+
+#container{
+    clear:both;
+    height: 450px;
+    width:900px;
+    background-color: rgba(62, 74, 97, 0.85);
+    border-radius: 19px;
+    margin-left:20px;
+    box-shadow: 5px 5px 12px rgb(23, 27, 57);
+}
+.icon{
+    display: inline;
+}
+#temperature{
+    font-size: 120px;
+    color: white;
+    background-color:transparent;
+    float:left;
+    margin-top: 10%;
+    margin-left: 60px;
+}
+
+#country{
+    
+    font-size: 29px;
+    color:white;
+    float:left;
+    margin-top: 25%;
+    background-color: transparent;
+    margin-left: -180px
+}
+
+#time{
+    font:bold;
+    color: aliceblue;
+    background-color: transparent;
+    float:right;  
+
+    margin-top: -30px;
+
+
+    margin-right: 60px;
+    font-size:29px;
+}
+#weatherCondition{
+    clear:both;
+    float: left;
+    margin-left:100px;
+    margin-top:13px;
+    font-size: 22px;
+}
+
+#day{
+    font-size: 29px;
+    color: aliceblue;
+    background-color: transparent;
+    float:right;  
+    margin-top: 9px;
+    margin-right: -60px;
+}
+
+#widgets{
+    clear:both;
+    float:right;
+    background-color: rgba(92, 131, 107, 0.85);
+    height:450px;
+    width:300px;
+    margin-top: -450px;
+    border-radius: 20px;
+    margin-right: 100px;
+    text-align: center;
+    box-shadow : 5px 5px 12px rgb(23, 26, 49)
+}
+#widgets div{
+    background-color: transparent;
+}
+.widgetContainer{
+    margin-top:40px;
+    background-color: transparent;   
+}
+.widgetContainer:hover{
+    transform :scale(1.2);
+}
+i{
+    background-color: transparent;
+    font-size: x-large;
+}
+span{
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
